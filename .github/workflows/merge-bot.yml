@@ -1,4 +1,4 @@
-name: Merge Bot(rebase method)
+name: Merge Bot
 
 on:
   pull_request:
